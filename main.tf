@@ -6,6 +6,7 @@ terraform {
     }
   }
 
+/*
   cloud {
     organization = "yesuac-llc"
 
@@ -13,6 +14,7 @@ terraform {
       name = "learn-terraform-aws-instance"
     }
   }
+  */
   required_version = ">= 1.2.0"
 }
 
